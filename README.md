@@ -1,2 +1,2 @@
-# project_D
-This is a AIML project involving Usage multilpe LLM layers
+# projectD
+this is a sample project on human memeory architectures using MULTIPLE LLM layers 
